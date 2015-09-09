@@ -7,3 +7,6 @@ until arr.size == 1000 do
 	i+=1
 end
 puts arr.map.inject(:+)
+
+# Output:
+# 3682913
