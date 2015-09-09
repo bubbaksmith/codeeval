@@ -11,8 +11,8 @@
 # lowercase 'f', for example.) 
 
 # You're a student writing a report on the youth of this famous hacker. You 
-#found the string that Johnny considered most beautiful. What is the maximum 
-#possible beauty of this string?
+# found the string that Johnny considered most beautiful. What is the maximum 
+# possible beauty of this string?
 
 File.open(ARGV[0]).each_line do |line|
 	found = {}
