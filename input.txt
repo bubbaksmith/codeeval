@@ -1,9 +1,3 @@
-5
-Hello World
-CodeEval
-Quick Fox
-A
-San Francisco
-Butts butts butss
-fart fat farts
-Yo momma so dumb
+5 34 5 23 67 -3 5 34
+1 2 3 4
+10 -2 3 4
